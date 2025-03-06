@@ -1,5 +1,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
-
+<div style="text-align: center;">
 <h1 style="font-family: 'Montserrat', sans-serif; font-weight: 100;">hyrvx. | アレックス</h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyrvx&show_icons=true&theme=radical)
@@ -23,3 +23,4 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+</div>
